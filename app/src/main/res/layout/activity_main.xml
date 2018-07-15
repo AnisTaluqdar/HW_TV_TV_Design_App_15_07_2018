@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#223f73"
+        android:orientation="vertical"
+
+        >
+
+        <TextView
+            android:id="@+id/TV1"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="ARA TV App"
+            android:gravity="center"
+            android:textSize="30sp"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#680000"
+            >
+
+            <TextView
+                android:id="@+id/TV2"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:background="#f4cf2b"
+                android:text="My TV"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+
+
+                />
+            <TextView
+                android:id="@+id/TV3"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:background="#1fca30"
+                android:text="Masranga TV"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+
+
+                />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#680000"
+            >
+
+            <TextView
+                android:id="@+id/TV4"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:background="#2bf4ea"
+                android:text="Tara TV"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+
+
+                />
+            <TextView
+                android:id="@+id/TV5"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:background="#1f6cca"
+                android:text="Lila TV"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+
+
+                />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#680000"
+            >
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:background="#6d6173"
+                android:text="Star TV"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+
+
+                />
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:background="#db75ef"
+                android:text="Picu TV"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+
+
+                />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#680000"
+            >
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:background="#f42b71"
+                android:text="Tutu TV"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+
+
+                />
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:background="#ca5b1f"
+                android:text="D TV"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+
+
+                />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#680000"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#b4e138"
+                android:text="Linga TV"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+
+
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#1fca30"
+                android:text="Mithai TV"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+
+
+                />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#680000"
+            >
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:background="#2b5af4"
+                android:text="S TV"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+
+
+                />
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:background="#9de2a4"
+                android:text="ATN TV"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+
+
+                />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:background="#680000"
+            >
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:background="#8ab3a1"
+                android:text="Nanu TV"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+
+
+                />
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:background="#4ceeecf4"
+                android:text="Guru TV"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+
+
+                />
+
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+
+
+</android.support.constraint.ConstraintLayout>
